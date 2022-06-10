@@ -1,0 +1,9 @@
+# How should I name it?
+
+- Name of the Pull Request MUST be the Jira code of your task. Ex. B4C-98
+- If you are working out of jira, just do a short desc...
+
+# How should I describe it?
+
+- You should copy and paste the Jira task decription here...
+- If you are working out of jira, just decribe what you did shortly...
