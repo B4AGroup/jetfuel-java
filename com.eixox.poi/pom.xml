@@ -30,7 +30,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.eixox</groupId>
-			<artifactId>com.eixox</artifactId>
+			<artifactId>glambox.jetfuel</artifactId>
 			<version>1.0-ALPHA</version>
 		</dependency>
 		<dependency>
